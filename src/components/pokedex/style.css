@@ -1,0 +1,22 @@
+.pokedex__header {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 10px;
+}
+
+.header__pagina {
+  display: flex;
+  justify-content: space-between;
+}
+.header__pagina h1 {
+     color: rgb(226, 216, 70);
+    -webkit-text-stroke: 3px rgb(81, 84, 248);
+    font-size: 3rem;
+}
+
+.pokedex__grid {
+  display: grid;
+  gap: 10px;
+  grid-template-columns: repeat(3, 1fr);
+}
