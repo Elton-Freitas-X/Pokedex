@@ -1,0 +1,26 @@
+.pagination__container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.pagination__container button{
+    border: none;
+    background-color: none;
+}
+
+.pagination__container button div{
+    display: flex;
+    align-items: center;
+    font-size: 2rem;
+    background-color: #000;
+    cursor: pointer;
+}
+
+.pagination__container .Qtn__pagination{
+    height: 5px;
+    font-weight: bold;
+    color: rgb(226, 216, 70);
+    -webkit-text-stroke: 1px rgb(81, 84, 248);
+    font-size: 1.2rem;
+}
