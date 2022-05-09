@@ -2,6 +2,10 @@
 
 ### 💻 A Responsive Pokedex made with React JS, Hooks, consuming the pokeapi and using localstorage.
 
+### Preview
+
+![pokedex](https://user-images.githubusercontent.com/76684471/167329535-8acb4915-ca6c-49bc-b366-f091899555c6.png)
+
 ### 🛠️ Technologies 
 React <br/>
 Poke Api
