@@ -17,9 +17,13 @@ NPM
 
 ## Installation
 
-$ git clone https://github.com/eltonfreitasx/Pokedex.git<br/>
-$ npm install<br/>
-$ npm start<br/><br/>
+```
+$ git clone https://github.com/eltonfreitasx/Pokedex.git
+
+$ npm install
+
+$ npm start<br/>
+```
 
 The application will open in the browser on http://localhost:3000
 
